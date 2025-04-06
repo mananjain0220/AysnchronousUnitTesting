@@ -1,7 +1,7 @@
 # AysnchronousUnitTesting
 Worked with Kodeco's - Unit-Testing in iOS - Asynchronous Unit Testing
 
-This transcript summarizes the conclusion of a course section focused on unit testing in iOS development. Key takeaways include:
+This project helped in understanding the key takeaways that include:
 
 - ✅ Unit testing both **synchronous** and **asynchronous** code
 - ⚠️ Handling complex **error scenarios**
